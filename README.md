@@ -4,7 +4,7 @@
 
 Querying download counts directly from R with the 'cranlogs' package [Csárdi G (2019).](https://cranlogs.r-pkg.org/)
 
-- [Script - Satellite Image `.R`](https://github.com/fblpalmeira/cranlogs_treemap/blob/main/data/cranlogs.R)
+- [Script - `.R`](https://github.com/fblpalmeira/cranlogs_treemap/blob/main/data/cranlogs.R)
 
 <img src="https://github.com/fblpalmeira/cranlogs_treemap/blob/main/data/cranlog.png">
 
