@@ -6,8 +6,7 @@ An animation showing the movement of nine individuals of jaguar which were track
 
 - [Script - Satellite Image `.R`]()
 
-<img src="">
-
+<img src="https://github.com/fblpalmeira/cranlogs_treemap/blob/main/data/cranlog.png">
 
 References: 
 
