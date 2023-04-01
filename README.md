@@ -1,8 +1,9 @@
-# cranlogs_treemap
+# #30DayChartChallenge_2023
+
+# Day 1 (1 April 2023) | part-to-whole
+
 
 An animation showing the movement of nine individuals of jaguar which were tracked at the same time in the Brazilian Pantanal wetland using "Jaguar Movement Database" [(Morato el al 2018)](http://doi.org/10.1002/ecy.2379). 
-
-- [Database `.csv`]()
 
 - [Script - Satellite Image `.R`]()
 
