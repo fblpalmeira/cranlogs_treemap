@@ -2,7 +2,7 @@
 
 # Day 1 (1 April 2023) | part-to-whole
 
-Querying download counts directly from R with the 'cranlogs' package [Csárdi G (2019).](https://cranlogs.r-pkg.org/)
+Querying download counts directly from R with the 'cranlogs' package [(Csárdi G 2019).](https://cranlogs.r-pkg.org/)
 
 - [Script - `.R`](https://github.com/fblpalmeira/cranlogs_treemap/blob/main/data/cranlogs.R)
 
